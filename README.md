@@ -3,3 +3,8 @@ Our app is for deaf and dumb, as we all know that deaf and dumb are having a lot
 
 Here is our digital design for our app:
 https://projects.invisionapp.com/prototype/test-ck8myws4g003lpc01ligih9f2
+
+Here is our digital design for our web:
+https://www.figma.com/file/mvMpyZFsjBOGOA3NwhK6Ir/test?node-id=26%3A2
+
+
