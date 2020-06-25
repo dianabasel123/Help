@@ -33,14 +33,14 @@ in this screen as you can see here is all the emergencies that the user may need
 
 ## THE FORTH SCREEN:
 
-here is the user profile which contains all of his information the emergency need to 
+here is the user profile which contains all of his information that the emergency need to.
 
 ![PROFILE](https://github.com/dianabasel123/Help/blob/master/screen3.PNG)
 
 
 ## THE FIFTH SCREEN :
 
-here is the medical ID for the user so it shows all his medical history for the user.
+here is the medical ID it shows the medical history for the user.
 
 ![MEDID](https://github.com/dianabasel123/Help/blob/master/screen2.PNG)
 
